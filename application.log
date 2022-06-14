@@ -1,0 +1,8 @@
+hello world
+Upps
+┌───────────┬───────────┐
+│  (index)  │  Values   │
+├───────────┼───────────┤
+│ firstName │  'Fajar'  │
+│ lastName  │ 'Siagian' │
+└───────────┴───────────┘
